@@ -1,5 +1,5 @@
 #Hi there 👋 I am Himanshu#
-#### I ❤️ open source and like contributing to Open Source projects. Fasinated by the ever evolving Web-Technologies. Currently precuring BTech CSE at IIITDM Kurnool.####
+#### I ❤️ open source and like contributing to Open Source projects. Fasinated by the ever evolving Web-Technologies. Currently precuring BTech CSE at IIITDM Kurnool.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu9271&label=Profile%20views&color=0e75b6&style=flat" alt="Himanshu" /> </p>
 
 <!--
