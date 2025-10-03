@@ -1,15 +1,31 @@
-<h1 align="center">Hi there 👋 I am Himanshu</h1>
-<h4>I ❤️ open source and like contributing to Open Source projects. Fasinated by the ever evolving Web-Technologies. Currently precuring BTech CSE at IIITDM Kurnool.</h4>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu9271&label=Profile%20views&color=0e75b6&style=flat" alt="Himanshu" /> </p>
-<h3 align="center">Languages and Tools</h3>
-<p align="center">
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="C" width="40" height="40"> </a>
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="C++" width="40" height="40"> </a>
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="Git" width="40" height="40"> </a>
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="JS" width="40" height="40"> </a>
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" alt="Bash" width="40" height="40"> </a>
+# Hi, I'm Himanshu! 👋
+
+A **passionate advocate and contributor to open source**. I'm currently developing software for India's telecom infrastructure at **C-DoT**.
+
+## 💡 Interests
+
+I am continually exploring the intersection of cutting-edge technology and collaborative development, with particular fascination in:
+* **Network and Application Security**
+* **Intelligence:** Artificial Intelligence (AI) and Genrative AI applications
+* **Decentralization:** Web3 and blockchain technologies.
+* **The Future of Compute:** Quantum Computing.
+
+
+### ⚙️ Tools I use
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,python,java,js,git,bash,docker,mysql,spring,nextjs,c,cpp" />
 </p>
-<img align="right" height="400" width="400" src="https://github.com/ojasjain24/ojasjain24/blob/main/animation_500_ktwjr3n0.gif" /> </a>
+
+## 🌐 Let's Connect
+<a href="https://www.linkedin.com/in/himanshu9271" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu9271&label=Profile%20views&color=0e75b6&style=flat" alt="Himanshu" /> </p>
+<img align="right" height="400" width="400" src="https://raw.githubusercontent.com/Himanshu9271/Himanshu9271/5c75797bb0daf36c9c9de8c2c2c3d4afbc23948e/happy-coder.gif" /> </a>
 
 <p><img align="center" height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=himanshu9271&count_private=false&theme=dark" alt="himanshu9271" /></p>
 
